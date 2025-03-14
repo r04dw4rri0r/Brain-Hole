@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my Brain Hole
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is where I put a lot of the content I'm working on.
