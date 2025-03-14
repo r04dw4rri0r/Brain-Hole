@@ -12,15 +12,15 @@
 		- attacks put stacking bleed on target, can be cleansed or just use a defensive
 	- Attendant
 		- Web Bolt: Single target dmg
-		- ==**Resonant Barrage: pulse AOE damage to party**==
+		- **==Resonant Barrage: pulse AOE damage to party==**
 - Miniboss
 	- Ixin
 		- Web Bolt: Single target dmg
 		- Web Spray: frontal, just dodge
 		- Web Spray: white swirlies, just dodge
-		- ==**Horrifying Shrill: party AOE fear**==
+		- **==Horrifying Shrill: party AOE fear==**
 	- Nakt
-		- ==**Web Bolt: Single target dmg**==
+		- **==Web Bolt: Single target dmg==**
 		- Call of the Brood: pulsing AOE dmg and summons Crawlers that do not have an aggro table
 		- Web Spray: frontal, just dodge
 	- Atik
