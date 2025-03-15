@@ -37,7 +37,7 @@ Vaelheim is a land **locked in eternal winter,** where the sun is often a pale g
 - **The Wyrmkin Tribes** – These **draconic beings serve the great Frost Wyrms,** living deep in the glaciers and **guarding ancient draconic secrets.**
 - **The Ice Wraiths** – Ghostly entities that **wander the tundra, remnants of those who perished in the cold.** They are feared as omens of doom.
 - **The Glacial Beasts** – Vaelheim is home to **mammoths, dire wolves, saber-toothed cats, frost trolls, and massive snow serpents.**
-- **The Daughters of the Storm** – A **mystical order of seer-witches who harness the power of the northern lights.** They live in isolation, feared and revered by all.
+- **The Daughters of the Storm** – A **mystical order of seer-witches who harness the power of the southern lights.** They live in isolation, feared and revered by all.
 
 ---
 
