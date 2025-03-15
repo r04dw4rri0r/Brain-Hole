@@ -3,6 +3,7 @@ title: The Blackened Wastes
 description: The Cursed Lands
 draft: "false"
 ---
+### The Cursed Lands
 #### **Geography**
 
 The Blackened Wastes is a land **scarred by ancient calamities, cursed beyond redemption, and shrouded in an unholy darkness** that clings to its very bones. Once a thriving region, it was forever twisted by **the Sundering and the rise of the Malikar,** the ancient forces of destruction. **It is a realm of ashen plains, scorched deserts, and festering swamps, where life struggles against an ever-present decay.**

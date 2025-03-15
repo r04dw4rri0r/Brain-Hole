@@ -3,6 +3,7 @@ title: Vaelheim
 description: The Frozen Expanse
 draft: "false"
 ---
+### The Frozen Expanse
 #### **Geography**
 
 Vaelheim is a land **locked in eternal winter,** where the sun is often a pale ghost behind swirling blizzards, and the nights are long and perilous. Located at the southernmost reaches of Aerthas, **it is a continent of ice-bound mountains, frozen seas, and tundras stretching endlessly beneath storm-laden skies.**

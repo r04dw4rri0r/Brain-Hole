@@ -3,6 +3,7 @@ title: Aetheria
 description: The Arcane Heartland
 draft: "false"
 ---
+### The Arcane Heartland
 #### **Geography**
 
 Aetheria is a land where magic does not simply exist—it thrives, saturating every inch of the continent. **Arcane storms swirl across the skies, rivers shimmer with raw mana, and the very earth hums with unseen power.** It is a continent shaped not by time, but by sorcery, where reality bends and the impossible becomes commonplace.

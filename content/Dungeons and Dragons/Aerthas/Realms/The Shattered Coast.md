@@ -3,6 +3,7 @@ title: The Shattered Coast
 description: The Free Cities of the Sea
 draft: "false"
 ---
+### The Free Cities of the Sea
 #### **Geography**
 
 The Shattered Coast is a land where the sea reigns supreme. **A vast continent dominated by rugged shorelines, dense jungle interiors, and towering sea cliffs, it is a land of both prosperity and peril.** The northern regions are marked by **rolling hills, fertile fields, and temperate forests, where merchant lords and naval powers thrive.** The central and western coasts feature **storm-wracked cliffs, hidden coves, and labyrinthine inlets**, where pirates and freebooters make their homes.

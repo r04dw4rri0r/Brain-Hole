@@ -3,6 +3,7 @@ title: Zarethar
 description: The Shadowed Lands
 draft: "false"
 ---
+### The Shadowed Lands
 #### **Geography**
 
 Zarethar is a land of **perpetual twilight, where the sun barely pierces the thick, unnatural gloom** that blankets the region. The land itself is jagged and treacherous—**twisting black mountains, vast dead forests, and choked swamplands make up the majority of its terrain.** Strange and unnatural fog rolls through the valleys, and even the rivers seem dark and sluggish, reflecting an eerie, moonlit glow even when no moon is visible in the sky.
