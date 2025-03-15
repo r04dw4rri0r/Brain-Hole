@@ -6,4 +6,4 @@ This is where I keep all of my notes for Mythic dungeons for World of Warcraft. 
 
 **==Any ability denoted like this means it is an interrupt priority==**
 \
-`Any ability denoted like this means it should be CC'd because it cannot be interrupted
+`Any ability denoted like this means it should be CC'd because it cannot be interrupted`
