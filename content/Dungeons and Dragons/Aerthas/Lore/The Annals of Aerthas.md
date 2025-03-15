@@ -1,7 +1,7 @@
 ---
 title: "**The Annals of Aerthas"
 description: History of the Earth
-draft: "false"
+draft: "true"
 ---
 
 ## **[[The First Age]] – The Age of Harmony (1A 1 – 1A 2,052)**
