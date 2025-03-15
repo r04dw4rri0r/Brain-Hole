@@ -1,7 +1,7 @@
 ---
 title: The Blackened Wastes
 description: The Cursed Lands
-draft: "true"
+draft: "false"
 ---
 #### **Geography**
 

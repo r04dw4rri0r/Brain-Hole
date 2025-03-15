@@ -1,7 +1,7 @@
 ---
 title: Zarethar
 description: The Shadowed Lands
-draft: "true"
+draft: "false"
 ---
 #### **Geography**
 

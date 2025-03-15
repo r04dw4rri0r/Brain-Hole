@@ -1,7 +1,7 @@
 ---
 title: Aetheria
 description: The Arcane Heartland
-draft: "true"
+draft: "false"
 ---
 #### **Geography**
 

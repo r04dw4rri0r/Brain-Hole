@@ -1,7 +1,7 @@
 ---
 title: Vaelheim
 description: The Frozen Expanse
-draft: "true"
+draft: "false"
 ---
 #### **Geography**
 

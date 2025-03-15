@@ -1,3 +1,9 @@
+---
+title: Telling of the Ages
+description: History of the Earth
+draft: "true"
+---
+
 # **The Ages of Aerthas: 4,000 Years of History**
 
 ### **The First Age: The Dawn of Empires (Year 1 – Year 1000)**

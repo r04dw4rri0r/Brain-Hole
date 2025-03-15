@@ -1,3 +1,10 @@
+---
+title: The Song of Aeonara
+description: The Birth of the Realms**
+draft: "true"
+---
+
+
 **The Song of Aeonara: The Birth of the Realms**
 
 Before the first dawn, before the earth had form, there was only the Endless Void and the One Who Dreamed. This being, known as Aeonara, was neither god nor mortal, but a force of infinite will. From her thoughts, she wove a song—a melody so vast and powerful that it gave shape to existence itself.

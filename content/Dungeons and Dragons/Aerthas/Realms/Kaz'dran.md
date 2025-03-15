@@ -1,7 +1,7 @@
 ---
 title: Kaz'dran
 description: The Forge of the World
-draft: "true"
+draft: "false"
 ---
 #### **Geography**
 
