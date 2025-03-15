@@ -1,18 +1,17 @@
 ---
 title: "**The Annals of Aerthas"
 description: History of the Earth
-draft: "true"
+draft: "false"
 ---
 
-## **The First Age – The Age of Harmony (1A 1 – 1A 2,052)**
+## **[[The First Age]] – The Age of Harmony (1A 1 – 1A 2,052)**
 
 _A time before the Sundering, when the world was whole and shaped by the gods._
 
-- **1A 1** – Aeonara sings the world into existence, and the first divine beings—the Celestara and Primor—shape the heavens and earth.
-- **1A 100** – Lirien, the Celestara of Grace and Wisdom, creates the **Elves**, who settle in the vast primordial forests.
-- **1A 300** – Thargrum, the Primor of Stone and Flame, forges the **Dwarves** in the deep mountains, teaching them the secrets of smithing and stonework.
-- **1A 600** – The **World Tree** is planted at the heart of the world, a source of balance that binds the continents together.
-- **1A 1,242** – **First Contact:** Elves and Dwarves meet in trade and curiosity. While the Elves see the Dwarves as crude but diligent, the Dwarves view the Elves as aloof and impractical.
+- **[[The First Age#^a62c1b|1A 1]]** – [[Aeonara]] sings the world into existence, and the first divine beings—the [[Celestara]] and [[Primor]]—shape the heavens and earth. The **World Tree**, [[Yggoril]], is planted at the heart of the world, a source of balance that binds the continents together. [[Lirien]], the [[Celestara]] of Grace and Wisdom, creates the **[[Elves]]**, who settle in the vast primordial forests.
+- **[[The First Age#^e94d7c|1A 100]]** – [[Thargrum]], the [[Primor]] of Stone and Flame, forges the **[[Dwarves]]** in the deep mountains, teaching them the secrets of smithing and stonework.
+- **[[The First Age#^98d2bb|1A 180]]** – [[Elves]] and [[Dwarves]] spread across the land and build the first civilizations.
+- **1A 546** – **The First War of the Emerald Boughs:** While [[Elves]] and [[Dwarves]] initially maintained peace through no contact, the [[Dwarves]] greedily dug too deep into the mountains, disturbing the [[Elves]] balance of magic. The [[Elves]] of [[Elarion]] clashed with the [[Dwarves]] of  [[Kaz'dran]], resulting in centuries of conflict.
 - **1A 1,511** – A great alliance is formed between the **Elven Archmages of [[Elarion]]** and the **Dwarven High Kings of [[Kaz'dran]]**, establishing trade and cultural exchange. The first mixed-city, **Ithrenmar**, is built in the mountains.
 - **1A 1,876** – Tensions rise as Dwarven mining efforts expand into lands that the Elves claim are sacred. Minor skirmishes erupt but are settled diplomatically.
 - **1A 1,950** – Oris and Valtur clash over the fate of mortals, their battle shaking the world.
