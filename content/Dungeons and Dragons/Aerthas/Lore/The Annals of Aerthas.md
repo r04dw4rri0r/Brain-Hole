@@ -13,7 +13,7 @@ _A time before the Sundering, when the world was whole and shaped by the gods._
 - **1A 300** – Thargrum, the Primor of Stone and Flame, forges the **Dwarves** in the deep mountains, teaching them the secrets of smithing and stonework.
 - **1A 600** – The **World Tree** is planted at the heart of the world, a source of balance that binds the continents together.
 - **1A 1,242** – **First Contact:** Elves and Dwarves meet in trade and curiosity. While the Elves see the Dwarves as crude but diligent, the Dwarves view the Elves as aloof and impractical.
-- **1A 1,511** – A great alliance is formed between the **Elven Archmages of [[Elarion]]** and the **Dwarven High Kings of [[Kaz’dran]]**, establishing trade and cultural exchange. The first mixed-city, **Ithrenmar**, is built in the mountains.
+- **1A 1,511** – A great alliance is formed between the **Elven Archmages of [[Elarion]]** and the **Dwarven High Kings of [[Kaz'dran]]**, establishing trade and cultural exchange. The first mixed-city, **Ithrenmar**, is built in the mountains.
 - **1A 1,876** – Tensions rise as Dwarven mining efforts expand into lands that the Elves claim are sacred. Minor skirmishes erupt but are settled diplomatically.
 - **1A 1,950** – Oris and Valtur clash over the fate of mortals, their battle shaking the world.
 - **1A 2,052 – The Great Sundering.** The destruction of the **World Tree** causes the land to fracture into **nine separate continents**. Entire cities and kingdoms are lost in the upheaval, and the once-thriving **Elven-Dwarven alliance is shattered.**
@@ -41,13 +41,13 @@ _The world is reshaped, new races emerge, and civilization begins anew._
 
 _The rise of great nations, war, and the first divine interventions._
 
-- **3A 228** – The **Dwarven Kingdoms of [[Kaz’dran]]** reach new heights, their forges crafting legendary weapons.
+- **3A 228** – The **Dwarven Kingdoms of [[Kaz'dran]]** reach new heights, their forges crafting legendary weapons.
 - **3A 366** – The Elves of [[Elarion]], seeking to maintain their isolation, establish magical barriers to hide their lands from outsiders.
 - **3A 532** – The **Human Kingdoms of [[Valtheris]]** aggressively expand, clashing with Orcs and Dwarves.
 - **3A 870** – The first recorded **Elven-Human War** begins when a Human king attempts to claim an Elven forest for expansion.
 - **3A 1,096** – The **Orcs unite** under the warlord **Gorath the Unbroken**, forming the first great **Orcish Horde**, raiding both Human and Elven lands.
 - **3A 1,245** – The first Half-Orcs are born, treated as outcasts in both Elven and Human societies.
-- **3A 1,569** – A great **Dwarven-Human War** erupts when a human empire attempts to claim the rich veins of **[[Kaz’dran]]**, leading to a brutal 50-year conflict.
+- **3A 1,569** – A great **Dwarven-Human War** erupts when a human empire attempts to claim the rich veins of **[[Kaz'dran]]**, leading to a brutal 50-year conflict.
 - **3A 1,907** – **[[The Shattered Coast]]** becomes a battleground between warring Human and Pirate factions.
 - **3A 2,153** – The **Celestial War** begins, a divine struggle between Oris and Valtur’s followers. **[[Vaelheim]]** is permanently frozen as a result.
 
@@ -60,7 +60,7 @@ _The world faces its darkest era as corruption and chaos spread._
 - **4A 148** – The **Malikar**, Valtur’s greatest betrayers, arise in **[[The Blackened Wastes]]**, attempting to corrupt the world.
 - **4A 806** – A human hero, **Aerion the Lightbearer**, unites Elves, Humans, and Dwarves to fight against the Malikar, defeating their first incursion.
 - **4A 1,263** – The **Plague of Malice** spreads from Zarethar, raising the dead to serve the forces of darkness.
-- **4A 1,662** – The Elves, blaming the Humans for allowing the spread of corruption, fully retreat into Elarion, severing nearly all ties with the outside world.
+- **4A 1,662** – The Elves, blaming the Humans for allowing the spread of corruption, fully retreat into [[Elarion]], severing nearly all ties with the outside world.
 - **4A 1,921** – **[[The Shattered Coast]]** becomes home to a powerful Pirate Confederation, independent from all major empires.
 
 ---
