@@ -4,9 +4,9 @@
 ### Lead up to first boss
 - Mobs
 	- Vendor
-		- ==**Ice Spritzer: single target stun/CC==**
+		- **==Ice Spritzer: single target stun/CC==**
 	- Assassin
-		- ==**Toxic Blade: gains buff that poisons his melee target==**
+		- **==Toxic Blade: gains buff that poisons his melee target==**
 		- Fan of Knives: pulsing AOE dmg to party, cc mob
 	- Thug
 		- Inhale Vapors: self buff, gains 50% phys dmg for 15 seconds
@@ -33,7 +33,7 @@
 	- Driller
 		- nothing of note
 	- Earthshaper
-		- ==**Rock Lance: single target bolt==**
+		- **==Rock Lance: single target bolt==**
 	- Sapper
 		- Final Blast: when it dies it spawns a large swirlie, just walk out
 	- Mine Rat

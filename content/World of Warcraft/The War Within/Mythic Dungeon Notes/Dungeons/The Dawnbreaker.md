@@ -10,18 +10,18 @@
 		- Tormenting Ray: picks random target and channels dmg into them, pop defensive especially if you have other debuffs on
 		- Stygian Seed: places a dot that does initial dmg + ticking dmg + will do massive dmg around target once it falls off/gets removed
 	- Shadowmage
-		- ==**Ensnaring Shadows: places curse on target that deals initial damage + ticking damage + reducing movement, decurse if possible**==
+		- **==Ensnaring Shadows: places curse on target that deals initial damage + ticking damage + reducing movement, decurse if possible==**
 		- Night Bolt: single target magic dmg
 	- Curseblade
 		- doesnt really do anything
 	- Commander
 		- Tainted Slash: tank buster that puts a bleed on the tank, can stack, pop defensives
-		- ==**Abyssal Howl: will put a massive absorb shield on enemy mobs + party wide damage**==
+		- **==Abyssal Howl: will put a massive absorb shield on enemy mobs + party wide damage==**
 	- Webmage
 		- Web Bolt: single target magic dmg
 		- Bursting Cocoon: places wide circle on party member, debuff that ticks dmg, whoever is in the circle when debuff falls off everyone in circle takes dmg
 ### First Boss: Shadowcrown
-- ==**Shadow Bolt: Single target magic dmg, interrupt**==
+- **==Shadow Bolt: Single target magic dmg, interrupt==**
 - Obsidian Beam: channels beam, at the end of the channel does large burst to tank and group wide damage, then summons beams ejecting from boss and rotates, avoid beams
 - Collapsing Night: targets 2 random players with debuffs, once the buff drops off 2 void zones spawn on the party members
 - Burning Shadows: targets random party member with a debuff doing ticking damage, once removed it places a heal absorb on the rest of the party, help healer out dealing with damage absorb
@@ -34,7 +34,7 @@
 	- Shadowalker
 		- Umbral Rush: tank buster on current target
 	- Darkcaster
-		- ==**Tormenting Beam: single target magic dmg**==
+		- **==Tormenting Beam: single target magic dmg==**
 		- Umbral Barrier: puts shield on itself, must dps shield down before debuff expires or else the 2nd boss will gain perma HP based off of remaining shield
 	- Shadow
 		- Abyssal Rot: does burst of dmg on target + pulsing dot dmg
@@ -45,7 +45,7 @@
 	- Militant:
 		- Entwining Threads: Grips random target and does dmg
 		- Tacky Nova: massive aoe, just run out
-		- ==**Silken Shell: takes reduced dmg**==
+		- **==Silken Shell: takes reduced dmg==**
 - Miniboss
 	- Unbreakable (chapel)
 		- Abyssal Blast: fires magic dmg at someone + DOT, can be removed, should be spot healed by healer
@@ -67,7 +67,7 @@
 - Miniboss
 	- Architect
 		- Tormenting Eruption: selects 2 random targets, channels dmg and does a small aoe, stay out of the aoe from other players
-		- ==**Night Bolt: single target magic dmg**==
+		- **==Night Bolt: single target magic dmg==**
 		- Usher Reinforcements: summons adds, the adds are spawned at about half health but begin to heal up so burn the adds down asap
 
 ### Third Boss: Rasha'nan

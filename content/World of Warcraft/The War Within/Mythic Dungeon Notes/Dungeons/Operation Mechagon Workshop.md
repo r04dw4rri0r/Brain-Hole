@@ -54,7 +54,7 @@
 	- Shield Generator
 		- you can stand in it to avoid dmg, but mobs get reduced dmg too
 	- Mechanic
-		- ==**Tune Up: when mob is low it will attempt to heal==**
+		- **==Tune Up: when mob is low it will attempt to heal==**
 ### Third Boss: Sparkflux
 - Spawns Plant
 	- Blossom Blast: single target dmg, can be CC

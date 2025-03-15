@@ -53,7 +53,7 @@
 - Mobs
 	- Scientist
 		- Failed Batch: spawns barrel, must swap to ASAP
-		- ==**Rejuvenating Honey: heals target mob**==
+		- **==Rejuvenating Honey: heals target mob==**
 	- Pyromaniac
 		- Erupting Inferno: marks random player w/ pulsing AOE dmg, spread from target
 		- **==Boiling Flames: single target magic dmg==**
