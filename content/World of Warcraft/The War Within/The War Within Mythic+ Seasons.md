@@ -1,11 +1,10 @@
-[[Season 1]] (September 10, 2024 - May 4, 2025)
+[[Season 1]] (September 10, 2024 - May 3, 2025)
 \
 [[Season 2]] (May 4, 2025 - Pending, Possibly January)
 \
 [[Season 3]] (Pending)
 \
 [[Season 4]] (Pending)
-\
 
 An * next to a bullet item denotes updated since last change
 ### Changelog
