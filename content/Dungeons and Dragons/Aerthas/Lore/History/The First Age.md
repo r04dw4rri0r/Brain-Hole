@@ -28,7 +28,7 @@ When the [[Dwarves]] **emerged from their mountain halls**, they looked upon the
 
 ---
 
-## **1A 180 – The Age of First Cities**
+## **1A 180 – The Rise of the First Cities**
 
 ^98d2bb
 
@@ -52,27 +52,27 @@ The informal peace between the [[Elves]] and [[Dwarves]] **fractured**, as **Dwa
 
 ## **1A 616 - [[The First War of the Emerald Boughs (1A 546 - 1A 616)#^456424|The Treaty of Vaelyndor]]**
 
-With the defeat of the [[Dwarves]] and the fall of [[Kharvaz-Thol]], the remaining [[Dwarves|Dwarven]] lords were summoned to sign the Treaty of [[Vaelyndor]]. This treaty outlawed the [[Dwarves]] from ever setting foot in the [[Emerald Boughs]] ever again, the ban on any trade of the [[Emerald Heartwood]], and heavy reparations in the form of gold, crafted goods, stone, and labor in an effort to rebuild the fallen [[Elves|Elven]] cities.
+With the defeat of the [[Dwarves]] and the fall of [[Kharvaz-Thol]], the remaining [[Dwarves|Dwarven]] Lords were summoned to sign the Treaty of [[Vaelyndor]]. This treaty outlawed the [[Dwarves]] from setting foot in the [[Emerald Boughs]] ever again, the ban on any trade of the [[Emerald Heartwood]], and heavy reparations in the form of gold, crafted goods, stone, and labor in an effort to rebuild the fallen [[Elves|Elven]] cities.
 
 ---
 
-## **Year 800 - The Rise of the First Magisters**
+## **Year 800 - The Evolution of the First Magisters**
 
-With peace restored, the Elves **delved deeper into the mysteries of magic**, seeking to master the **weave of creation** itself. The first **Magisters** emerged—Elven scholars who could **bend the arcane to their will**. They built **towers of learning and power**, forming the **Arcane Order**, a group dedicated to **understanding the nature of magic and the divine**.
+With peace restored, the [[Elves]] **delved deeper into the mysteries of magic**, seeking to master the **weave of creation** itself. The first **[[Magisters]]** emerged—[[Elven]] scholars who could **bend the arcane to their will**. They built **towers of learning and power**, forming the **[[Arcane Order]]**, a group dedicated to **understanding the nature of magic and the divine**.
 
-Their experiments **unraveled hidden truths**, and some whispered that the **World Tree was more than just a tree—it was a bridge between realms, its roots touching all of existence**.
+Their experiments **unraveled hidden truths**, and some whispered that the **[[Yggoril|World Tree]] was more than just a tree—it was a bridge between realms, its roots touching all of existence**.
 
-The Dwarves, meanwhile, **perfected metallurgy**, creating the first **mithril and adamantine weapons**, their forges burning with **sacred flame**. They crafted **legendary artifacts**, some of which would be **wielded by kings and warriors for ages to come**.
+The [[Dwarves]], meanwhile, **perfected metallurgy**, creating the first **mithril and adamantine weapons**, their forges burning with **sacred flame**. They crafted **legendary artifacts**, some of which would be **wielded by kings and warriors for ages to come**.
 
 ---
 
 ## **Year 1,200 - The Awakening of the Shadow Lords**
 
-As Elves and Dwarves **flourished**, **Valtur, the Lord of Shadows**, brooded in the dark places of the world. He saw the **Elves’ light and the Dwarves’ fire** and despised their **dominion over the land**.
+As [[Elves]] and [[Dwarves]] **flourished**, **[[Valtur]], the Lord of Shadows**, brooded in the dark places of the world. He saw the **[[Elves|Elves’]] light and the [[Dwarves|Dwarves’]] fire** and despised their **dominion over the land**.
 
-In secret, he wove his own **children from darkness and hatred**—**the Malikar, the First Betrayers**. These beings, infused with **Valtur’s abyssal power**, spread across **the world in secrecy**, corrupting and twisting **mortal hearts**.
+In secret, he wove his own **children from darkness and hatred**—**the [[Malikar]], the First Betrayers**. These beings, infused with **[[Valtur|Valtur’s]] abyssal power**, spread across **the world in secrecy**, corrupting and twisting **mortal hearts**.
 
-Among them were the **Duskar Lords**, powerful warlocks who **sought dominion over life and death**. They formed the **first cults of the Abyss**, practicing **dark magics that defied the natural order**.
+Among them were the **[[Duskar Lords]]**, powerful warlocks who **sought dominion over life and death**. They formed the **first cults of the Abyss**, practicing **dark magics that defied the natural order**.
 
 ---
 
