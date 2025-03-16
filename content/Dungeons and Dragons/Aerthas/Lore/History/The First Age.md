@@ -44,11 +44,15 @@ However, this separation would not last forever.
 
 ---
 
-## **1A 546 - The First War of the Emerald Boughs**
+## **1A 546 - [[The First War of the Emerald Boughs (1A 546 - 1A 616)|The First War of the Emerald Boughs]]**
 
 The informal peace between the [[Elves]] and [[Dwarves]] **fractured**, as **Dwarven mining expeditions dug too deeply into the roots of the forests**, unknowingly threatening the balance of magic. **Elven rangers and druids clashed with Dwarven engineers and warriors**, leading to a century of **conflict in the deep woods of Elarion**.
 
-This war, called the **First War of the Emerald Boughs**, would continue for many centuries, with the [[Dwarves]] mining efforts continued to destabilize the [[Elves]] balance of magic. This destabilization would continue to threaten the world 
+---
+
+## **1A 616 - [[The First War of the Emerald Boughs (1A 546 - 1A 616)#^456424|The Treaty of Vaelyndor]]**
+
+With the defeat of the [[Dwarves]] and the fall of [[Kharvaz-Thol]], the remaining [[Dwarves|Dwarven]] lords were summoned to sign the Treaty of [[Vaelyndor]]. This treaty outlawed the [[Dwarves]] from ever setting foot in the [[Emerald Boughs]] ever again, the ban on any trade of the [[Emerald Heartwood]], and heavy reparations in the form of gold, crafted goods, stone, and labor in an effort to rebuild the fallen [[Elves|Elven]] cities.
 
 ---
 
