@@ -11,8 +11,8 @@ _A time before the Sundering, when the world was whole and shaped by the gods._
 - **[[The First Age#^a62c1b|1A 1]]** – [[Aeonara]] sings the world into existence, and the first divine beings—the [[Celestara]] and [[Primor]]—shape the heavens and earth. The **World Tree**, [[Yggoril]], is planted at the heart of the world, a source of balance that binds the continents together. [[Lirien]], the [[Celestara]] of Grace and Wisdom, creates the **[[Elves]]**, who settle in the vast primordial forests.
 - **[[The First Age#^e94d7c|1A 100]]** – [[Thargrum]], the [[Primor]] of Stone and Flame, forges the **[[Dwarves]]** in the deep mountains, teaching them the secrets of smithing and stonework.
 - **[[The First Age#^98d2bb|1A 180]]** – [[Elves]] and [[Dwarves]] spread across the land and build the first civilizations.
-- **1A 546** – **The First War of the Emerald Boughs:** While [[Elves]] and [[Dwarves]] initially maintained peace through no contact, the [[Dwarves]] greedily dug too deep into the mountains, disturbing the [[Elves]] balance of magic. 
-- **1A 782** - The First War of the Emerald Boughs ends. The 
+- **1A 546** – **The First War of the Emerald Boughs:** While [[Elves]] and [[Dwarves]] initially maintained peace through no contact, the [[Dwarves]] began a logging expedition into the Emerald Boughs, disturbing the [[Elves]] balance of magic. 
+- **1A 782 - The First War of the Emerald Boughs** ends. The [[Dwarves]] were forced to sign the Treaty of 
 - **1A 1,511** – A great alliance is formed between the **Elven Archmages of [[Elarion]]** and the **Dwarven High Kings of [[Kaz'dran]]**, establishing trade and cultural exchange. The first mixed-city, **Ithrenmar**, is built in the mountains.
 - **1A 1,876** – Tensions rise as Dwarven mining efforts expand into lands that the Elves claim are sacred. Minor skirmishes erupt but are settled diplomatically.
 - **1A 1,950** – Oris and Valtur clash over the fate of mortals, their battle shaking the world.

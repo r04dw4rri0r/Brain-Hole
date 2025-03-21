@@ -56,7 +56,7 @@ With the defeat of the [[Dwarves]] and the fall of [[Kharvaz-Thol]], the remaini
 
 ---
 
-## **Year 800 - The Evolution of the First Magisters**
+## **1A 800 - The Evolution of the First Magisters**
 
 With peace restored, the [[Elves]] **delved deeper into the mysteries of magic**, seeking to master the **weave of creation** itself. The first **[[Magisters]]** emerged—[[Elven]] scholars who could **bend the arcane to their will**. They built **towers of learning and power**, forming the **[[Arcane Order]]**, a group dedicated to **understanding the nature of magic and the divine**.
 
@@ -66,7 +66,7 @@ The [[Dwarves]], meanwhile, **perfected metallurgy**, creating the first **mithr
 
 ---
 
-## **Year 1,200 - The Awakening of the Shadow Lords**
+## **1A 1,200 - The Awakening of the Shadow Lords**
 
 As [[Elves]] and [[Dwarves]] **flourished**, **[[Valtur]], the Lord of Shadows**, brooded in the dark places of the world. He saw the **[[Elves|Elves’]] light and the [[Dwarves|Dwarves’]] fire** and despised their **dominion over the land**.
 
@@ -76,17 +76,17 @@ Among them were the **[[Duskar Lords]]**, powerful warlocks who **sought dominio
 
 ---
 
-## **Year 1,500 - The Wars of Twilight**
+## **1A 1,500 - The Wars of Twilight**
 
-The Duskar Lords, now growing in **number and power**, launched **the first great war of darkness**—the **Wars of Twilight**. Their armies of **twisted beasts, shadowspawn, and Malikar thralls** spread across the land, **threatening to consume all.**
+The [[Duskar Lords]], now growing in **number and power**, launched **the first great war of darkness**—the **Wars of Twilight**. Their armies of **twisted beasts, shadowspawn, and [[Malikar]] thralls** spread across the land, **threatening to consume all.**
 
-For the first time, the **Elves and Dwarves** **united** against a **common enemy**. The great **Battle of Duskfall** saw the combined might of **Elven spellcasters and Dwarven warriors** drive back the **forces of the Abyss**, forcing the **Duskar Lords into hiding**.
+For the first time, the **[[Elves]] and [[Dwarves]]** **united** against a **common enemy**. The great **[[Battle of Duskfall]]** saw the combined might of **Elven spellcasters and Dwarven warriors** drive back the **forces of the Abyss**, forcing the **[[Duskar Lords]] into hiding**.
 
 Though they had won, the **war left scars upon the land**, and the **shadow had taken root in the hearts of many**.
 
 ---
 
-## **Year 1,900 - The Growing Schism of Oris and Valtur**
+## **1A 1,900 - The Growing Schism of Oris and Valtur**
 
 The ancient struggle between **Oris, the Celestara of Light, and Valtur, the Lord of Shadows**, had remained a celestial battle **since the dawn of creation**. But as their influence spread into the mortal world, their **disagreements deepened**.
 
@@ -96,11 +96,11 @@ Their battles grew more **frequent and violent**, and their struggle soon reache
 
 ---
 
-## **Year 2,000 - The Sundering**
+## **1A 2,000 - The Sundering**
 
 The final battle between **Oris and Valtur** reached **its breaking point** when, in an act of **fury and defiance**, **Valtur struck at the heart of the World Tree**. His dark magic **corrupted its roots**, and Oris, in a desperate attempt to **purge the corruption**, unleashed **a divine fire** upon the tree.
 
-The battle shattered **Yggoril**, and with it, the **land of Aerthas itself fractured into nine continents**.
+The battle destroyed **[[Yggoril]]**, and with it, the **land of Aerthas itself fractured into nine continents**.
 
 Mountains crumbled, seas **rushed into the sundered land**, and entire civilizations were **lost beneath the waves or buried in the earth**. This event, known as **The Sundering**, marked the **end of the First Age** and the beginning of a new era.
 
